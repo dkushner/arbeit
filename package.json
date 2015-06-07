@@ -31,10 +31,12 @@
       "packages": "jspm_packages"
     },
     "dependencies": {
+      "gl-matrix": "npm:gl-matrix@^2.2.1",
       "lodash": "npm:lodash@^3.5.0",
       "three": "github:mrdoob/three.js@master",
       "threestrap": "github:unconed/threestrap@^0.0.9",
-      "traceur-runtime": "github:jmcriffey/bower-traceur-runtime@^0.0.87"
+      "traceur-runtime": "github:jmcriffey/bower-traceur-runtime@^0.0.87",
+      "wait.for-es6": "npm:wait.for-es6@^0.1.0"
     }
   }
 }
